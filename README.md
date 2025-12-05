@@ -1,91 +1,90 @@
 # README.md
-<h1 align="center">👋 Hi, I'm <span style="color:#03C4FF">Saheer C</span></h1>
-<h3 align="center">Python Full Stack Developer (Django | DRF | React)</h3>
+<!-- =======================================================
+ 🔥 Modern Premium GitHub Profile — Saheer C
+======================================================= -->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#0AC9FF">Saheer C</span></h1>
+<h3 align="center">Python Full Stack Developer | Django | DRF | React | PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Months-0366d6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Position-Full%20Stack%20Developer-24292e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To-Software%20Developer%20Roles-0A0A0A?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=saheer07&style=flat-square&color=0AC9FF" />
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Months-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0366d6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Software%20Developer-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔹 **Professional Summary**
+## 🚀 About Me  
 
-I am a **Python Full Stack Developer** experienced in building **production-ready applications** using  
-**Django, DRF, React, PostgreSQL, Tailwind, JWT Auth**, and modern development practices.
+I’m a **Python Full Stack Developer** specialized in building **high-performance, production-grade applications** using:
 
-I focus on:
+- **Django + DRF**
+- **React + Tailwind**
+- **PostgreSQL**
+- **JWT Authentication**
+- **Clean Architecture**
 
-- 🔹 **Clean, scalable backend architecture (DRF + PostgreSQL)**  
-- 🔹 **Fast, responsive UI (React + Tailwind)**  
-- 🔹 **Secure authentication (JWT, Session Auth)**  
-- 🔹 **High-performance REST APIs**  
-- 🔹 **Enterprise-level E-commerce workflows**  
-- 🔹 **Quality code, optimization & best practices**
-
-I build software that is **efficient, secure, and business-focused**.
+I focus on writing **secure, scalable and maintainable code** following best practices.
 
 ---
 
-## 🔹 **Core Skills**
+## 🧠 Tech Stack
 
-### **Backend**
-- Python • Django • Django REST Framework  
-- PostgreSQL • SQLite  
-- JWT Auth • Role-based Access  
-- ORM Optimization • API Design
+### 🔹 Backend
+`Python` • `Django` • `DRF` • `JWT` • `PostgreSQL` • `SQLite` • `Celery`
 
-### **Frontend**
-- React • Redux  
-- JavaScript (ES6+)  
-- Tailwind CSS • Bootstrap  
+### 🔹 Frontend
+`React` • `Redux` • `Tailwind CSS` • `Bootstrap` • `JavaScript (ES6+)`
 
-### **Tools & DevOps**
-- Git • GitHub  
-- Docker  
-- GitHub Actions  
-- Postman  
-- Linux Fundamentals  
+### 🔹 Tools & DevOps
+`Git` • `GitHub` • `Docker` • `GitHub Actions` • `Postman`
+
+### 🔹 Architecture
+`Clean Architecture` • `REST API Design` • `MVC`
 
 ---
 
-## 🔹 **Experience**
+## 💼 Experience
 
-### 🏢 **Python Full Stack Developer – Bridgeon Solutions LLP**  
+### 🔹 **Python Full Stack Developer — Bridgeon Solutions LLP**  
 📅 *Jan 2025 – Present*
 
-- Developed **100+ scalable REST APIs** for authentication, products, wishlist & cart  
-- Built **50+ optimized React components**, improving UI performance  
-- Integrated **Razorpay payments** with signature verification  
-- Implemented **JWT authentication** with secure user workflows  
-- Improved backend performance using optimized ORM queries  
-- Collaborated using Git, code reviews & clean architecture methods  
+- Delivered **100+ REST APIs** for production.
+- Built **50+ React components** increasing UI speed by **30%**.
+- Integrated **Razorpay payments** (signature secured).
+- Implemented **JWT Authentication** with advanced user flows.
+- Designed optimized PostgreSQL DB schemas.
+- Followed Git workflow: branches, PRs, code reviews.
 
 ---
 
-## 🔹 **Key Projects**
+## 🌟 Featured Projects
 
-### 🛒 **Bull Wheel – Full E-Commerce Platform**  
-*Django | DRF | React | Tailwind | Razorpay | PostgreSQL*
+### 🛒 **Bull Wheel — Full E-Commerce Platform**  
+**Django | DRF | React | Razorpay | PostgreSQL | Tailwind**
 
-- Complete commerce flow: Cart, Wishlist, Orders, Checkout  
-- Razorpay Payment Gateway + Webhook Security  
-- Admin Panel with full CRUD  
-- JWT Authentication + Email Notifications  
-- 300+ automated & manual test runs for production readiness  
-
----
-
-### 🌐 **Personal Portfolio – React + Tailwind**  
-- Modern animated UI  
-- EmailJS integration  
-- Vercel Deployment  
-- Fully responsive  
+- Full e-commerce: Cart, Wishlist, Checkout, Orders  
+- Razorpay Integration + Webhooks  
+- Admin Dashboard with CRUD  
+- Email Notifications (SMTP)  
+- 300+ manual + automated test runs  
 
 ---
 
-## 🔹 **GitHub Stats**
+### 🌐 **Portfolio — React + Tailwind**  
+- Sleek modern UI  
+- Animations + Responsive  
+- EmailJS contact form  
+- Hosted on Vercel  
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=saheer07&theme=react&hide_border=true" />
@@ -98,16 +97,22 @@ I build software that is **efficient, secure, and business-focused**.
 
 ---
 
-## 🔹 **Let’s Connect**
+## 🛠️ Modern Developer Tools (New Feature)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,postgres,tailwind,js,git,docker,vscode,linux&theme=light" />
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 - 📧 **Email:** saheerchungath07@gmail.com  
 - 🔗 **LinkedIn:** https://linkedin.com/in/saheer-chungath  
 - 💻 **GitHub:** https://github.com/saheer07  
-- 🌍 **Portfolio:** https://portfolio-0-2-ten.vercel.app/
+- 🌍 **Portfolio:** https://portfolio-0-2-ten.vercel.app  
 
 ---
 
-<p align="center">
-  ⭐ <em>Thank you for visiting my profile!</em> ⭐
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
