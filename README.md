@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-7%2B%20Months-blue" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-green" />
-  <img src="https://img.shields.io/badge/Looking%20For-7%20LPA%20%2B-orange" />
+  <img src="https://img.shields.io/badge/Looking%20For-5%20LPA%20%2B-orange" />
 </p>
 
 ---
