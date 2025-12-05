@@ -134,7 +134,6 @@ I specialize in:
 ##  Connect With Me
 -  **Email:** saheerchungath07@gmail.com  
 -  **LinkedIn:** https://linkedin.com/in/saheer-chungath  
--  **GitHub:** https://github.com/saheer07  
 -  **Portfolio:** https://portfolio-0-2-ten.vercel.app/
 
 ---
