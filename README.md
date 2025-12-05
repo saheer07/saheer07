@@ -121,7 +121,15 @@ I specialize in:
 
 ###  GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saheer07&theme=tokyonight&margin-w=10&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=saheer07
+    &theme=tokyonight
+    &margin-w=15
+    &margin-h=15
+    &no-frame=true
+    &no-bg=true
+    &title=Commit,Followers,Repositories,Stars,PullRequest,Issues" 
+  />
 </p>
 
 ###  Contribution Graph  
