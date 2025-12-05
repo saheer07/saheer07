@@ -73,7 +73,7 @@ I specialize in:
 ##  Experience
 
 ### **Python Full Stack Developer – Bridgeon Solutions LLP**  
-🗓 **Jan 2025 – Present**
+ **Jan 2025 – Present**
 
 - Developed **100+ REST APIs** (Auth, Products, Orders, Cart, Wishlist)  
 - Built **50+ high-performance React Components**  
@@ -89,7 +89,7 @@ I specialize in:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffd5,100:054cff&height=3" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ###  **Bull Wheel – E-Commerce Platform**
 **Django | DRF | React | Tailwind | PostgreSQL | Razorpay**
@@ -139,7 +139,7 @@ I specialize in:
 
 ---
 
-<h3 align="center">✨ If you like my work, give a ⭐ to my repositories!</h3>
+<h3 align="center"> If you like my work, give a  to my repositories!</h3>
 
 <!-- FINAL FADE LINE -->
 <p align="center">
