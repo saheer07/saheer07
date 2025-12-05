@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-7%2B%20Months-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Looking%20For-5%20LPA%20%2B-orange?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=saheer07&style=for-the-badge&color=blue" />
 </p>
 
