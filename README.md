@@ -96,11 +96,7 @@ I build high-quality, scalable, production-ready applications with:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saheer07&theme=tokyonight" />
 </p>
 
-###  Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saheer07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheer07&layout=compact&theme=tokyonight" />
-</p>
+
 
 ###  GitHub Trophies  
 <p align="center">
