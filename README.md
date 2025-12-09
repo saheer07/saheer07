@@ -115,22 +115,10 @@ I specialize in:
 ##  GitHub Insights
 
 ###  Streak Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=saheer07&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ###  GitHub Trophies  
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=saheer07
-    &theme=tokyonight
-    &margin-w=15
-    &margin-h=15
-    &no-frame=true
-    &no-bg=true
-    &title=Commit,Followers,Repositories,Stars,PullRequest,Issues" 
-  />
-</p>
+
 
 ###  Contribution Graph  
 <p align="center">
