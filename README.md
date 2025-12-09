@@ -6,11 +6,7 @@
 <h3 align="center"> Full Stack Developer | Django • DRF • React • PostgreSQL | AI Enthusiast</h3>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B_months-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-green?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=saheer07&style=for-the-badge&color=blue" />
-</p>
+
 
 ---
 
