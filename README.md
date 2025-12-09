@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&center=true&vCenter=true&width=600&color=00E8FF&duration=2000&pause=600&lines=Hi+,+I'm+Saheer+C+;Python+Full+Stack+Developer;Django++DRF++React;AI+Enthusiast+|+Open+Source+Lover" />
 </h1>
-
+<h3 align="center"> Full Stack Developer | Django • DRF • React • PostgreSQL | AI Enthusiast</h3>
 
 
 <p align="center">
